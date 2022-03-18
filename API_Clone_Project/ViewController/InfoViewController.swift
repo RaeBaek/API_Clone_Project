@@ -21,10 +21,10 @@ class InfoViewController: UIViewController {
     let imageDummy3: [String] = ["내비게이션", "내비게이션", "내비게이션", "내비게이션", "내비게이션"]
     let imageDummy4: [String] = ["내비게이션"]
     
-//    var name: String = ""
-//    var email: String = ""
-//    var age: String = ""
-//    var id: String = ""
+    var name: String = ""
+    var email: String = ""
+    var age: String = ""
+    var id: String = ""
     
     var tabbarViewController: TabbarViewController?
     
